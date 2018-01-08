@@ -1,0 +1,2 @@
+# legendary-octo-waddle
+8 process steps to get yourself involved in AI revolution: Research improvements to machine learning &amp; apply to new domains like financial services &amp; IOT security;  Learn GitHub shared, version control tool; Find existing Google, shared, open-source project, GitHub.org to start out in;  Support Google AI engineers anyway you can (focus on systems design); Learn Python 3.0 (IDE interpreter for windows, included in Linux); Learn Google tensorflow library; Refresh roadmap based on what you learned from past steps
